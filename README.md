@@ -1,2 +1,4 @@
 # hello-world
-1er repository
+1st repository
+
+A la découverte de GitHub!
